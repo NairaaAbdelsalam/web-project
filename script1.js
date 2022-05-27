@@ -108,7 +108,7 @@ else if(phone.length!=11){
 
 
   if(valid==true){
-    alert("thanks "+firstname+" "+lastname+" for join us");
+    alert("Thanks "+firstname+" "+lastname+" for join us \n Your order will be received soon #.");
     window.location.href="index.html";
   }
 
